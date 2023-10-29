@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+body{
+	#but{
+		
+		background:aqua;
+	}
+	#but2{
+		background: aqua;
+	}
+	#in{
+		
+		background:lightpink;
+	}
+	#t{
+		background: palegoldenrod;
+	}
+	#bo{
+		border:groove ;
+	}
+	
+	
+}
